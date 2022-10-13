@@ -17,3 +17,8 @@ ProjectCR1/Intermediate/CachedAssetRegistry.bin
 ProjectCR1/Saved/AutoScreenshot.png
 ProjectCR1/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 ProjectCR1/Saved/Logs/ProjectCR1.log
+ProjectCR1/Intermediate/CachedAssetRegistry.bin
+ProjectCR1/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ProjectCR1/Saved/Logs/ProjectCR1.log
+*.log
+*.bin
